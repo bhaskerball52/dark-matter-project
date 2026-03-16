@@ -27,7 +27,7 @@ plt.errorbar(data['Rad'], data['Vobs'], yerr=data['errV'],
 
 # Plot predicted velocity from visible matter only
 plt.plot(data['Rad'], data['Vbar'], 'r--', linewidth=2, 
-         label='Visible matter only')
+         label='Calculated velocity')
 
 # Labels and formatting
 plt.xlabel('Radius (kpc)', fontsize=12)
