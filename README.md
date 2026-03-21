@@ -30,7 +30,8 @@ relates to dark matter core size.
   while only 7% show the opposite — consistent with the baryonic feedback hypothesis
 
 ---
-## Interactive Results Dashboard
+## Interactive Dashboard
+🔗 [View the live results dashboard](https://bhaskerball52.github.io/dark-matter-project/galaxy_report.html)
 
 The analysis generates a self-contained `galaxy_report.html` file that can 
 be opened in any browser with no internet connection required. It contains 
